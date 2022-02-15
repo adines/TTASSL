@@ -41,7 +41,7 @@ def separar_puntos(data,target):
 
 
 def analizar_puntos(data, target, puntos_unlabeled, distance, th=0, reduccion=False, dim=0):
-    if not comprobar_distancia():
+    if not comprobar_distancia(distance):
         return (data,target,np.array([]))
     (puntos_ceros, puntos_unos) = separar_puntos(data, target)
     puntos_unlabeled_umap=puntos_unlabeled

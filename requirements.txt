@@ -1,5 +1,5 @@
-numpy==1.13.3
+numpy==1.19.5
 ripser==0.6.1
 persim==0.3.1
-gudhi==3.5.0
+gudhi==3.4.1
 umap==0.1.1
