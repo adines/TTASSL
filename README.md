@@ -23,8 +23,8 @@ learning algorithms.
 
 ## Installation
 
-TTASSL is available in PyPi for Python 3.11. To use it, you have to install 
-Python 3.11 and pip.
+TTASSL is available in PyPi for Python 3.10. To use it, you have to install 
+Python 3.10 and pip.
 
 ```
 pip install TTASSL

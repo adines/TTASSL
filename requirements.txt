@@ -1,5 +1,6 @@
 numpy==1.25.2
+scikit-tda==1.0.0
 ripser==0.6.8
 persim==0.3.5
 gudhi==3.9.0
-umap==0.5.5
+umap-learn==0.5.5
